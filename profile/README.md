@@ -8,8 +8,8 @@ Bienvenido a **Nigrix**. Aquí encontrarás toda la información necesaria para 
 
 Para comenzar a usar **Nigrix**, puedes descargar las últimas versiones del software desde los siguientes enlaces:
 
-- 📌 [Nigrix Software - Versión Estable](https://github.com/NigrixOfficial/.github/releases/tag/Nigrix_Software)
-- 📌 [Nigrix CMD - Versión Estable](https://github.com/NigrixOfficial/.github/releases/tag/Nigrix_CMD)
+- 📌 [Nigrix Software](https://github.com/NigrixOfficial/.github/releases/tag/Nigrix_Software)
+- 📌 [Nigrix CMD](https://github.com/NigrixOfficial/.github/releases/tag/Nigrix_CMD)
 
 ---
 
