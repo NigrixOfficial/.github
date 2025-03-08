@@ -1,5 +1,3 @@
-![Nigrix Banner](https://github.com/NigrixOfficial/Nigrix/raw/main/src/assets/images/nigrix.png)   
-
 **Nigrix** es una herramienta todo-en-uno diseñada para mejorar el rendimiento de Windows, optimizar el sistema, gestionar aplicaciones y más.  
 
 ## 🚀 Características  
