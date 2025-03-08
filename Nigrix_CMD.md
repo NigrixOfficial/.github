@@ -4,7 +4,7 @@ Nigrix_CMD es una herramienta avanzada de línea de comandos diseñada para opti
 
 ## 📥 Descarga
 
-Puedes descargar la versión en formato `.zip`, donde encontrarás todas las carpetas con los archivos necesarios, desde el siguiente enlace:
+Puedes descargar la versión en formato `.bat`, donde encontrarás todas las carpetas con los archivos necesarios, desde el siguiente enlace:
 📌 **Releases:** [Releases](https://github.com/NigrixOfficial/.github/releases/tag/Nigrix_CMD).   
 
 ## 🛠️ Instalación
