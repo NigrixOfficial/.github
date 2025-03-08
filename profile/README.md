@@ -11,7 +11,7 @@
 
 ## 📥 Descarga e Instalación  
 
-Puedes descargar la última versión de Nigrix desde nuestra sección de [Releases](https://github.com/NigrixOfficial/Nigrix/releases).   
+Puedes descargar la última versión de Nigrix desde nuestra sección de [Releases](https://github.com/NigrixOfficial/.github/releases/tag/Nigrix_Software).   
 
 ### 📌 Instalación  
 1. Descarga el archivo `.exe` desde la última versión disponible.  
@@ -29,7 +29,7 @@ Nigrix verifica automáticamente si hay actualizaciones disponibles.
 ## 🛑 Licencia  
 
 © 2025 Nigrix. **All Rights Reserved.**  
-Este software está bajo la licencia **propietaria**. Su uso está sujeto a los términos del [Acuerdo de Licencia](https://github.com/NigrixOfficial/Nigrix/blob/main/LICENSE).  
+Este software está bajo la licencia **propietaria**. Su uso está sujeto a los términos del [Acuerdo de Licencia](https://github.com/NigrixOfficial/.github/blob/main/LICENSE).  
 
 ## 👥 Contribuciones y Contacto  
 
