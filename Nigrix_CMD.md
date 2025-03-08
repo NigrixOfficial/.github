@@ -9,7 +9,7 @@ Puedes descargar la versión en formato `.zip`, donde encontrarás todas las car
 
 ## 🛠️ Instalación
 
-1. **Descarga** el archivo `.zip` desde el enlace anterior.
+1. **Descarga** el archivo `.bat` desde el enlace anterior.
 2. **Extrae** el contenido en la ubicación de tu preferencia.
 3. **Ejecuta Nigrix.cmd** para acceder a las funciones disponibles.
 
