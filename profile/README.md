@@ -21,7 +21,7 @@ Explora más documentación sobre nuestros proyectos:
 
 Si **Nigrix** ha sido útil para usted, considere apoyar el proyecto—¡realmente ayuda!
 
-[Support via PayPal](https://img.shields.io/badge/Support-via%20PayPal-FFD700?style=for-the-badge&logo=paypal&logoColor=white)]
+[![Support via PayPal](https://img.shields.io/badge/Support-via%20PayPal-FFD700?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/)
 
 ---
 
