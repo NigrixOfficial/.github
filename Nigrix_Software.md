@@ -1,4 +1,6 @@
-**Nigrix** es una herramienta todo-en-uno diseñada para mejorar el rendimiento de Windows, optimizar el sistema, gestionar aplicaciones y más.  
+# Nigrix - Sofware
+
+**Nigrix** es una herramienta todo en uno diseñada para mejorar el rendimiento de Windows, optimizar el sistema, gestionar aplicaciones y más.  
 
 ## 🚀 Características  
 
@@ -9,7 +11,7 @@
 ✅ **Discord RPC** – Muestra tu estado en Discord mientras usas Nigrix.  
 ✅ **Interfaz moderna y minimalista** – Rápida, ligera y fácil de usar.  
 
-## 📥 Descarga e Instalación  
+### 📥 Descarga e Instalación  
 
 Puedes descargar la última versión de Nigrix desde nuestra sección de [Releases](https://github.com/NigrixOfficial/.github/releases/tag/Nigrix_Software).   
 
@@ -18,24 +20,37 @@ Puedes descargar la última versión de Nigrix desde nuestra sección de [Releas
 2. Ejecuta el instalador y sigue los pasos en pantalla.  
 3. ¡Listo! Nigrix estará disponible en tu PC.  
 
-## 🛠️ Uso  
+### 🛠️ Uso  
 
 - **Gestión de software**: Descarga, instala y gestiona tus aplicaciones desde un solo lugar.  
 
-## 🔄 Actualizaciones  
+### 🔄 Actualizaciones  
 
 Nigrix verifica automáticamente si hay actualizaciones disponibles.   
 
-## 🛑 Licencia  
 
-© 2025 Nigrix. **All Rights Reserved.**  
-Este software está bajo la licencia **propietaria**. Su uso está sujeto a los términos del [Acuerdo de Licencia](https://github.com/NigrixOfficial/.github/blob/main/LICENSE).  
+### Support the Project
 
-## 👥 Contribuciones y Contacto  
+Si **Nigrix** ha sido útil para usted, considere apoyar el proyecto, realmente ayuda!
 
-¿Tienes ideas o encontraste un error? ¡Nos encantaría escucharte!  
+[![Support via PayPal](https://img.shields.io/badge/Support-via%20PayPal-FFD700?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/)
 
-📌 **Discord:** [Únete aquí](https://discord.gg/MvZV9VkuNY)  
-📌 **GitHub:** [NigrixOfficial](https://github.com/NigrixOfficial)  
 
-⭐ **Si te gusta Nigrix, apóyanos dándole una estrella en GitHub!** ⭐  
+### 🛑 **Licencia**
+
+© 2025 **Nigrix**. Todos los derechos reservados.
+
+Este software está bajo una **licencia propietaria**. Su uso está sujeto a los términos del [Acuerdo de Licencia](https://github.com/NigrixOfficial/.github/blob/main/LICENSE).
+
+
+
+### 👥 **Contribuciones y Contacto**
+
+¿Tienes alguna idea, sugerencia o encontraste un error? ¡Nos encantaría saber de ti!
+
+[![Únete a nuestra comunidad de Discord](https://img.shields.io/badge/Join-Discord%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MvZV9VkuNY)
+[![Github de NigrixOfficial](https://img.shields.io/badge/Join-the%20Discussion-2D9F2D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NigrixOfficial)
+
+
+
+### ⭐ **Si te gusta Nigrix, apóyanos con una estrella en GitHub!** ⭐
