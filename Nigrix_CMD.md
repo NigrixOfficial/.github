@@ -1,6 +1,6 @@
-# Nigrix 🚀
+# Nigrix - CMD 🚀
 
-Nigrix_CMD es una herramienta avanzada de línea de comandos diseñada para optimizar y mejorar el rendimiento de Windows, enfocada en la optimización del sistema, red y experiencia de usuario para gaming y desarrollo.
+Nigrix es una herramienta avanzada de línea de comandos diseñada para optimizar y mejorar el rendimiento de Windows, enfocada en la optimización del sistema, red y experiencia de usuario para gaming y desarrollo.
 
 ### 📥 Descarga
 
