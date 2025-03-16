@@ -15,6 +15,7 @@ Explora más documentación sobre nuestros proyectos:
 
 - 📌 [Guía completa de Nigrix CMD](https://github.com/NigrixOfficial/.github/blob/main/Nigrix_CMD.md)
 - 📌 [Guía completa de Nigrix Software](https://github.com/NigrixOfficial/.github/blob/main/Nigrix_Software.md)
+- 📌 [Guía completa de PowerShell ](https://github.com/NigrixOfficial/.github/blob/main/Nigrix_PowerShell.md)
 
 
 ### Support the Project
