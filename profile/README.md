@@ -6,16 +6,17 @@ Bienvenido a **Nigrix**. Aquí encontrarás toda la información necesaria para 
 
 Para comenzar a usar **Nigrix**, puedes descargar las últimas versiones del software desde los siguientes enlaces:
 
-- [Nigrix Software](https://github.com/NigrixOfficial/.github/releases/tag/Nigrix_Software)
-- [Nigrix CMD](https://github.com/NigrixOfficial/.github/releases/tag/Nigrix_CMD)
+- [Nigrix Software](https://github.com/NigrixOfficial/Nigrix_Software/releases/tag/Nigrix) 
+- [Nigrix CMD](https://github.com/NigrixOfficial/Nigrix-CMD/releases/tag/Nigrix)
+- [Nigrix PowerShell](https://github.com/NigrixOfficial/Nigrix-PowerShell/releases/tag/Nigrix) 
 
 ### 📝 **Otros Recursos**
 
 Explora más documentación sobre nuestros proyectos:
 
-- 📌 [Guía completa de Nigrix CMD](https://github.com/NigrixOfficial/.github/blob/main/Nigrix_CMD.md)
-- 📌 [Guía completa de Nigrix Software](https://github.com/NigrixOfficial/.github/blob/main/Nigrix_Software.md)
-- 📌 [Guía completa de PowerShell ](https://github.com/NigrixOfficial/.github/blob/main/Nigrix_PowerShell.md)
+- 📌 [Guía completa de Nigrix CMD](https://github.com/NigrixOfficial/Nigrix-CMD)
+- 📌 [Guía completa de Nigrix Software](https://github.com/NigrixOfficial/Nigrix_Software)
+- 📌 [Guía completa de PowerShell ](https://github.com/NigrixOfficial/Nigrix-PowerShell)
 
 
 ### Support the Project
@@ -25,13 +26,11 @@ Si **Nigrix** ha sido útil para usted, considere apoyar el proyecto, realmente 
 [![Support via PayPal](https://img.shields.io/badge/Support-via%20PayPal-FFD700?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/)
 
 
-
 ### 🛑 **Licencia**
 
 © 2025 **Nigrix**. Todos los derechos reservados.
 
 Este software está bajo una **licencia propietaria**. Su uso está sujeto a los términos del [Acuerdo de Licencia](https://github.com/NigrixOfficial/.github/blob/main/LICENSE).
-
 
 
 ### 👥 **Contribuciones y Contacto**
