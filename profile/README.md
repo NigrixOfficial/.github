@@ -6,9 +6,9 @@ Bienvenido a **Nigrix**. Aquí encontrarás toda la información necesaria para 
 
 Para comenzar a usar **Nigrix**, puedes descargar las últimas versiones del software desde los siguientes enlaces:
 
-- [Nigrix Software](https://github.com/NigrixOfficial/Nigrix_Software/releases/tag/Nigrix) 
-- [Nigrix CMD](https://github.com/NigrixOfficial/Nigrix-CMD/releases/tag/Nigrix)
-- [Nigrix PowerShell](https://github.com/NigrixOfficial/Nigrix-PowerShell/releases/tag/Nigrix) 
+- [Nigrix Software](https://github.com/NigrixOfficial/Nigrix/releases/tag/v2.4.1) 
+- [Nigrix CMD](https://github.com/NigrixOfficial/CMD/releases/tag/Nigrix)
+- [Nigrix PowerShell](https://github.com/NigrixOfficial/Powershell/releases/tag/Nigrix) 
 
 ### 📝 **Otros Recursos**
 
