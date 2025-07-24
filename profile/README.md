@@ -8,7 +8,6 @@ Para comenzar a usar **Nigrix**, puedes descargar las últimas versiones del sof
 
 - [Nigrix Software](https://github.com/NigrixOfficial/Nigrix/releases/tag/v2.4.1) 
 - [Nigrix CMD](https://github.com/NigrixOfficial/CMD/releases/tag/Nigrix)
-- [Nigrix PowerShell](https://github.com/NigrixOfficial/Powershell/releases/tag/Nigrix) 
 
 ### 📝 **Otros Recursos**
 
@@ -16,7 +15,6 @@ Explora más documentación sobre nuestros proyectos:
 
 - 📌 [Guía completa de Nigrix CMD](https://github.com/NigrixOfficial/Nigrix-CMD)
 - 📌 [Guía completa de Nigrix Software](https://github.com/NigrixOfficial/Nigrix_Software)
-- 📌 [Guía completa de PowerShell ](https://github.com/NigrixOfficial/Nigrix-PowerShell)
 
 
 ### Support the Project
